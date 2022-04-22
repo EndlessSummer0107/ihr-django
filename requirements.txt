@@ -1,5 +1,5 @@
 appdirs
-Django==2.2.27
+Django==2.2.28
 django-contact
 django-contact-form
 django-cors-headers
